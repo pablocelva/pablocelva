@@ -1,6 +1,4 @@
-# 👋 Hola, soy Pablo Celva
-
-### 🚀 Desarrollador de Software Full Stack & Móvil
+### 👋 Hola, soy Pablo | Desarrollador Full Stack & Móvil
 
 Desarrollador con sólida experiencia diseñando y construyendo soluciones digitales escalables. Combino especialización en **Frontend** y **Desarrollo Móvil** con una comprensión profunda de **UX/UI**, **Backend** y **Ciencias de Datos**.
 
