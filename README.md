@@ -8,7 +8,7 @@ Desarrollador con sólida experiencia diseñando y construyendo soluciones digit
 
 | Área | Tecnologías & Enfoque |
 | :--- | :--- |
-| **🖥️ Frontend** | Experto en **React** y **Vue.js**. Creación de interfaces interactivas y responsivas con fuerte enfoque en UX/UI. |
+| **🖥️ Frontend** | Experto en **React**, **Astro** y **Vue.js**. Creación de interfaces interactivas y responsivas con fuerte enfoque en UX/UI. |
 | **📱 Mobile** | Nativo en **Android (Kotlin)**. Arquitecturas modernas (MVVM, Navigation Component) y UI con Material Design. |
 | **⚙️ Backend & API** | Servicios robustos con **Node.js**, **Spring Boot** y **FastAPI**. |
 | **☁️ Data & Cloud** | Integración de análisis de datos y gestión de bases de datos para decisiones basadas en evidencia. |
